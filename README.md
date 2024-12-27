@@ -1,0 +1,1 @@
+A computer vision program that detects and interprets hand gestures, designed for interactive games
